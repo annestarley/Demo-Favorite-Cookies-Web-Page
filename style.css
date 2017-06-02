@@ -7,7 +7,7 @@
 
 */
 
-@import url(https://fonts.googleapis.com/css?family=Barrio|Dosis" rel="stylesheet);
+@import url('https://fonts.googleapis.com/css?family=Barrio|Indie+Flower');
 
 
 body {
@@ -44,7 +44,7 @@ h1 {
 }
 
 p, li {
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Indie Flower', cursive;
   font-size: 22px;
   color: #FF583A;
 }
