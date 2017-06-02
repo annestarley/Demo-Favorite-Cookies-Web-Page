@@ -11,14 +11,14 @@
 
 
 body {
-  background-color: #A0AAA7;
+  background-color: #6C73FF;
 }
 
 .pageContainer {
   width: 940px;
   margin: 20px auto 0 auto;
   padding: 20px;
-  background-color: #E8AAA7;
+  background-color: #EBEDD9;
 }
 
 .imageContainer {
@@ -30,7 +30,7 @@ body {
   float: left;
   width: 300px;
   margin-left: 20px;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 img {
