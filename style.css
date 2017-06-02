@@ -18,7 +18,7 @@ body {
   width: 940px;
   margin: 20px auto 0 auto;
   padding: 20px;
-  background-color: #fff;
+  background-color: #A7E8B7;
 }
 
 .imageContainer {
@@ -40,13 +40,13 @@ img {
 h1 {
   font-family: 'Barrio', cursive;
   font-size: 64px;
-  color: #411000;
+  color: #FF603A;
 }
 
 p, li {
   font-family: 'Dosis', sans-serif;
   font-size: 22px;
-  color: #984d26;
+  color: #FF583A;
 }
 
 
